@@ -1,0 +1,24 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore audio and subtitle files
+narrations/
+subtitles/
+*.mp3
+*.json
+
+# Ignore large model files or checkpoints (if any)
+*.bin
+*.pt
+
+# Streamlit logs or temporary files
+*.log
+*.tmp
+*.DS_Store
