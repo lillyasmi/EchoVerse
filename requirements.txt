@@ -4,3 +4,4 @@ transformers
 sentencepiece
 pydub
 soundfile
+edge-tts
